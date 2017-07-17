@@ -1,2 +1,2 @@
 # website
-Content of the website (https://opeanspeaks.com)
+Content of the website (https://openspeaks.com)
